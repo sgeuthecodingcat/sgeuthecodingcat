@@ -1,4 +1,5 @@
-Hallo, I am sgeuthecodingcat a sorbian-german dude who likes to make computers do things they arent supposed to do
+hello I am sgeu I guess
+sorbian german guy who does infact
 
 I am kind of bad at coding but I do know Shell and Batch.
 I mess with Windows and Linux mostly
